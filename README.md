@@ -24,9 +24,7 @@ It was developed in Python, by using the library [Selenium]
     git clone https://github.com/papatekken/simple-LIHKG-scraper-with-python LIHKG-scraper
     ```
 
-
-
-5. In root directory of 'LIHKG-scraper', run following command to start the application, when the application finished the run, a new text file is created with capture data .
+4. In root directory of 'LIHKG-scraper', run following command to start the application, when the application finished the run, a new text file is created with capture data .
 
     the program is expecting the post ID as argument
 
