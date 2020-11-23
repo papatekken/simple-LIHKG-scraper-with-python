@@ -1,5 +1,3 @@
-from openpyxl import Workbook
-from openpyxl import load_workbook
 from selenium import webdriver
 
 from selenium.common.exceptions import TimeoutException
@@ -50,7 +48,8 @@ def captureData(ID):
 	if (browser!=None):
 		browser.quit()  
   
-  
+
+ 
   
 if(len(sys.argv)<2):
 	print("no post ID found")
