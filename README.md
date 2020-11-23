@@ -32,11 +32,8 @@ the program is expecting the post ID as argument
 
 e.g. post ID = 1996060
 
-
-
-	```
 	python hkg.py 1996060
-	```
+
 
 ## License
 [MIT](https://github.com/papatekken/simple-LIHKG-scraper-with-python/blob/main/LICENSE)
