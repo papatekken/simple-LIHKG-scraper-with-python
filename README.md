@@ -28,9 +28,10 @@ It was developed in Python, by using the library [Selenium]
 
 5. In root directory of 'LIHKG-scraper', run following command to start the application, when the application finished the run, a new text file is created with capture data .
 
-the program is expecting the post ID as argument
+    the program is expecting the post ID as argument
 
-e.g. post ID = 1996060
+    e.g. post ID = 1996060 
+
     ```
     python hkg.py 1996060
     ```
