@@ -24,22 +24,18 @@ It was developed in Python, by using the library [Selenium]
     git clone https://github.com/papatekken/simple-LIHKG-scraper-with-python LIHKG-scraper
     ```
 
+4. In root directory of 'LIHKG-scraper', run following command to start the application, when the application finished the run, a new text file is created with capture data .
 
+    the program is expecting the post ID as argument
 
-5. In root directory of 'LIHKG-scraper', run following command to start the application, when the application finished the run, a new text file is created with capture data .
+    e.g. post ID = 1996060 
 
-the program is expecting the post ID as argument
-
-e.g. post ID = 1996060
-
-
-
-	```
-	python hkg.py 1996060
-	```
+    ```
+    python hkg.py 1996060
+    ```
 
 ## License
-[MIT](https://github.com/papatekken/simple-LIHKG-scraper-with-python/blob/main/LICENSE)
+[MIT](https://github.com/papatekken/simple-LIHKG-scraper-with-python/blob/master/LICENSE)
 
 ## Contact
 Created by [@papatekken](papatekken@gmail.com) - feel free to contact me!
